@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class Search2D {
+
+public class Search2D {
+
 }
